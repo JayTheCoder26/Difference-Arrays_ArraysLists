@@ -13,4 +13,5 @@ The main difference between arrays and ArrayLists is their flexibility. Arrays h
 
 In my opinion, arrays are better when working with a known amount of data, while ArrayLists are more convenient when the amount of information changes. Understanding both structures is important because choosing the appropriate one can improve program organization, efficiency, and overall performance.
 
-
+[
+](https://github.com/JayTheCoder26/Difference-Arrays_ArraysLists/tree/main)
